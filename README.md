@@ -4,11 +4,10 @@
 - OCamLox
 
 ### Books I'm reading:
-- Programming TypeScript
-  ![50%](https://progress-bar.dev/50)
+- Programming TypeScript  
   [xx------------------] [8%] 
-- Learn You an Erlang for Great Good
+- Learn You an Erlang for Great Good  
   [xxxx----------------] [19%]
-- The Machine Learning Solutions Architect Handbook
+- The Machine Learning Solutions Architect Handbook  
   [xxxxxx--------------] [28%]
 
