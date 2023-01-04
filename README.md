@@ -5,7 +5,7 @@
 
 ### Books I'm reading:
 - Programming TypeScript  
-  [xx------------------] [8%] 
+  [xxx-----------------] [15%] 
 - Learn You an Erlang for Great Good  
   [xxxx----------------] [19%]
 - The Machine Learning Solutions Architect Handbook  
