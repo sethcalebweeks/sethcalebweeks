@@ -11,6 +11,6 @@
 - The Machine Learning Solutions Architect Handbook  
   [xxxxxx--------------] [28%]
 - [Crafting Interpreters](https://craftinginterpreters.com/contents.html)
-  - [A Tree-Walk Interpreter](https://craftinginterpreters.com/a-tree-walk-interpreter.html)
+  - [A Tree-Walk Interpreter](https://craftinginterpreters.com/a-tree-walk-interpreter.html)  
     See [OCamLox](https://github.com/sethcalebweeks/ocamlox)
 
